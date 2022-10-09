@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44418",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\andrewlam\\Repos\\Dev\\hello-dotnet-distributed-tracing\\Web\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
